@@ -7276,10 +7276,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["colord", [\
-        ["npm:2.9.3", {\
-          "packageLocation": "./.yarn/cache/colord-npm-2.9.3-5c35c27898-95d909bfbc.zip/node_modules/colord/",\
+        ["npm:2.10.0", {\
+          "packageLocation": "./.yarn/cache/colord-npm-2.10.0-08c0b28db5-7bd2fca99b.zip/node_modules/colord/",\
           "packageDependencies": [\
-            ["colord", "npm:2.9.3"]\
+            ["colord", "npm:2.10.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -13778,7 +13778,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/postcss", null],\
             ["browserslist", "npm:4.21.10"],\
             ["caniuse-api", "npm:3.0.0"],\
-            ["colord", "npm:2.9.3"],\
+            ["colord", "npm:2.10.0"],\
             ["postcss", "npm:8.4.27"],\
             ["postcss-value-parser", "npm:4.2.0"]\
           ],\
@@ -14456,7 +14456,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["postcss-minify-gradients", "virtual:0e6cde1679d665e670012b26591c3a3b813739540b739a194d0ee7d21b77286bc62a35ea841174578985fbebb9691e20f040d492105656034a4f9eb5b0930062#npm:5.1.1"],\
             ["@types/postcss", null],\
-            ["colord", "npm:2.9.3"],\
+            ["colord", "npm:2.10.0"],\
             ["cssnano-utils", "virtual:0e6cde1679d665e670012b26591c3a3b813739540b739a194d0ee7d21b77286bc62a35ea841174578985fbebb9691e20f040d492105656034a4f9eb5b0930062#npm:3.1.0"],\
             ["postcss", "npm:8.4.27"],\
             ["postcss-value-parser", "npm:4.2.0"]\

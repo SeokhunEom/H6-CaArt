@@ -13593,7 +13593,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.4.27"],\
             ["nanoid", "npm:3.3.6"],\
             ["picocolors", "npm:1.0.0"],\
-            ["source-map-js", "npm:1.0.2"]\
+            ["source-map-js", "npm:1.2.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16619,10 +16619,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["source-map-js", [\
-        ["npm:1.0.2", {\
-          "packageLocation": "./.yarn/cache/source-map-js-npm-1.0.2-ee4f9f9b30-c049a7fc4d.zip/node_modules/source-map-js/",\
+        ["npm:1.2.2", {\
+          "packageLocation": "./.yarn/cache/source-map-js-npm-1.2.2-d40ce9a415-d4f3adc192.zip/node_modules/source-map-js/",\
           "packageDependencies": [\
-            ["source-map-js", "npm:1.0.2"]\
+            ["source-map-js", "npm:1.2.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16642,7 +16642,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack", null],\
             ["abab", "npm:2.0.6"],\
             ["iconv-lite", "npm:0.6.3"],\
-            ["source-map-js", "npm:1.0.2"],\
+            ["source-map-js", "npm:1.2.2"],\
             ["webpack", "virtual:f2aa641dfb1c79849092623f6be0ae197d459ea8d808a754cac71a8af44c0086671ebc171e252f11518d0e2b173a262af2bbcd4a07a7c60fb39b8c8cd627d43d#npm:5.88.2"]\
           ],\
           "packagePeers": [\

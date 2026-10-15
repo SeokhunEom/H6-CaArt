@@ -6940,13 +6940,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["bytes", [\
-        ["npm:3.0.0", {\
-          "packageLocation": "./.yarn/cache/bytes-npm-3.0.0-19be09472d-a2b386dd81.zip/node_modules/bytes/",\
-          "packageDependencies": [\
-            ["bytes", "npm:3.0.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.1.2", {\
           "packageLocation": "./.yarn/cache/bytes-npm-3.1.2-28b8643004-e4bcd3948d.zip/node_modules/bytes/",\
           "packageDependencies": [\
@@ -7371,16 +7364,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["compression", [\
-        ["npm:1.7.4", {\
-          "packageLocation": "./.yarn/cache/compression-npm-1.7.4-e0cd6afa69-35c0f2eb1f.zip/node_modules/compression/",\
+        ["npm:1.8.2", {\
+          "packageLocation": "./.yarn/cache/compression-npm-1.8.2-4b720da886-1120f4b2f7.zip/node_modules/compression/",\
           "packageDependencies": [\
-            ["compression", "npm:1.7.4"],\
-            ["accepts", "npm:1.3.8"],\
-            ["bytes", "npm:3.0.0"],\
+            ["compression", "npm:1.8.2"],\
+            ["bytes", "npm:3.1.2"],\
             ["compressible", "npm:2.0.18"],\
             ["debug", "virtual:013be1149d5692a108e582f1e5b5b411a8f47b255d189e4869bd767781ed4f23663599ec155e6771d512911f942b99e05153fb1318bc6bff68cc0ee1ab5e2760#npm:2.6.9"],\
-            ["on-headers", "npm:1.0.2"],\
-            ["safe-buffer", "npm:5.1.2"],\
+            ["destroy", "npm:1.2.0"],\
+            ["negotiator", "npm:0.6.4"],\
+            ["on-headers", "npm:1.1.0"],\
+            ["safe-buffer", "npm:5.2.1"],\
             ["vary", "npm:1.1.2"]\
           ],\
           "linkType": "HARD"\
@@ -12914,6 +12908,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["negotiator", "npm:0.6.3"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:0.6.4", {\
+          "packageLocation": "./.yarn/cache/negotiator-npm-0.6.4-4a96086720-7ded10aa02.zip/node_modules/negotiator/",\
+          "packageDependencies": [\
+            ["negotiator", "npm:0.6.4"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["neo-async", [\
@@ -13224,10 +13225,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["on-headers", [\
-        ["npm:1.0.2", {\
-          "packageLocation": "./.yarn/cache/on-headers-npm-1.0.2-e7cd3ea25e-2bf1346721.zip/node_modules/on-headers/",\
+        ["npm:1.1.0", {\
+          "packageLocation": "./.yarn/cache/on-headers-npm-1.1.0-7d18779060-98aa64629f.zip/node_modules/on-headers/",\
           "packageDependencies": [\
-            ["on-headers", "npm:1.0.2"]\
+            ["on-headers", "npm:1.1.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -18125,7 +18126,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bonjour-service", "npm:1.1.1"],\
             ["chokidar", "npm:3.5.3"],\
             ["colorette", "npm:2.0.20"],\
-            ["compression", "npm:1.7.4"],\
+            ["compression", "npm:1.8.2"],\
             ["connect-history-api-fallback", "npm:2.0.0"],\
             ["default-gateway", "npm:6.0.3"],\
             ["express", "npm:4.18.2"],\

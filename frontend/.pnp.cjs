@@ -12218,12 +12218,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["launch-editor", [\
-        ["npm:2.6.0", {\
-          "packageLocation": "./.yarn/cache/launch-editor-npm-2.6.0-0c6f590d3e-48e4230643.zip/node_modules/launch-editor/",\
+        ["npm:2.14.2", {\
+          "packageLocation": "./.yarn/cache/launch-editor-npm-2.14.2-24f3a4fc0f-fc5e7cfc87.zip/node_modules/launch-editor/",\
           "packageDependencies": [\
-            ["launch-editor", "npm:2.6.0"],\
-            ["picocolors", "npm:1.0.0"],\
-            ["shell-quote", "npm:1.8.1"]\
+            ["launch-editor", "npm:2.14.2"],\
+            ["picocolors", "npm:1.1.1"],\
+            ["shell-quote", "npm:1.12.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -13519,6 +13519,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/picocolors-npm-1.0.0-d81e0b1927-a2e8092dd8.zip/node_modules/picocolors/",\
           "packageDependencies": [\
             ["picocolors", "npm:1.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:1.1.1", {\
+          "packageLocation": "./.yarn/cache/picocolors-npm-1.1.1-4fede47cf1-e1cf46bf84.zip/node_modules/picocolors/",\
+          "packageDependencies": [\
+            ["picocolors", "npm:1.1.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16473,6 +16480,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["shell-quote", [\
+        ["npm:1.12.0", {\
+          "packageLocation": "./.yarn/cache/shell-quote-npm-1.12.0-07cdcb44f1-bbb3b6b244.zip/node_modules/shell-quote/",\
+          "packageDependencies": [\
+            ["shell-quote", "npm:1.12.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:1.8.1", {\
           "packageLocation": "./.yarn/cache/shell-quote-npm-1.8.1-fcccf06093-5f01201f4e.zip/node_modules/shell-quote/",\
           "packageDependencies": [\
@@ -18133,7 +18147,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["html-entities", "npm:2.4.0"],\
             ["http-proxy-middleware", "virtual:4bdcd53d9eeac7fe5f24cf1570765dd53a3169d4477ed0421ab2f19cd03bcd24a05e4249bdd8f69fa1e5c7c6d7c1eec707f384f1badb221e423beb63b68a591c#npm:2.0.6"],\
             ["ipaddr.js", "npm:2.1.0"],\
-            ["launch-editor", "npm:2.6.0"],\
+            ["launch-editor", "npm:2.14.2"],\
             ["open", "npm:8.4.2"],\
             ["p-retry", "npm:4.6.2"],\
             ["rimraf", "npm:3.0.2"],\
